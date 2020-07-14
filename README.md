@@ -37,7 +37,7 @@ This code has been tested on Ubuntu 16.04.
 2. Install Keras-based [segmentation-models](https://github.com/qubvel/segmentation_models) library.
 
     ``` bash
-    pip3 install segmentation-models
+    pip install segmentation-models
     ```
 
 ### Downloading Demo Data
