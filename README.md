@@ -31,7 +31,7 @@ This code has been tested on Ubuntu 16.04.
 
     # Install Python 3 dependencies
     sudo apt-get install python3-dev python3-pip
-    pip3 install numpy
+    pip install numpy
     ```
 
 2. Install Keras-based [segmentation-models](https://github.com/qubvel/segmentation_models) library.
